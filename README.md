@@ -1,9 +1,11 @@
 # Danny-s-Adventures
-Learning Python and Machine Learning Resources
+Learning Python and Machine Learning Resources # how to learn 
 
-Hope this collection will serve others who are starting from scratch
+Test Hope this collection will serve others who are starting from scratch
 
-Thank you,
+Thank you, (test)
 
 Danny Boy
-Too
+more test Too
+
+just because we`re learning #see line 2 
