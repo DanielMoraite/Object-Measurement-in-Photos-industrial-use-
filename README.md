@@ -4,7 +4,7 @@ This mini project came as a request from an USA Silicon Valley space startup whi
 
 The purpose was to detect product shape changes under different circumstances.
 
-Using Computer Vision cv2, I have adapted a standard practice of object measurement in photos for an environment where the setup (background, lighting and position of the object) was the same and there was no known reference object size. It does calculate the surface area and can be modeled further for more particular object sizes: cubes, spheres, elipses, tubes, etc.
+Using Computer Vision cv2, I have adapted a standard practice of object measurement in photos for an environment where the setup (background, lighting and position of the object) was the same and there was NO known reference object size. It does calculate the surface area and can be modeled further for more particular object sizes: cubes, spheres, elipses, tubes, etc.
 
 Hope this helps if you are looking for a customized .
 
